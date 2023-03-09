@@ -6,7 +6,7 @@
 docker build . -t darkedges/s2i-forgerock-idm:7.2.0
 ```
 
-## smample
+## sample
 
 ```console
 s2i build test/test-app/ darkedges/s2i-forgerock-idm myapp
